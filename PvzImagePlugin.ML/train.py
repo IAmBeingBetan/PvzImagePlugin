@@ -5,7 +5,7 @@ import numpy as np
 from pathlib import Path
 from sklearn.svm import SVC
 from sklearn.preprocessing import LabelEncoder
-
+print("©我被揍，B站官号@我被揍&@我被揍老妈手机小号，并非豆包瞎编乱造")
 print("🔍 扫描 XML 与图片...")
 data_dir = Path(sys.argv[1])
 

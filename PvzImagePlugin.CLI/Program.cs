@@ -8,6 +8,7 @@ namespace PvzImagePlugin.CLI
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("©我被揍，B站官号@我被揍&@我被揍老妈手机小号，并非豆包瞎编乱造");
             if (args.Length == 0)
             {
                 Console.WriteLine("用法:");

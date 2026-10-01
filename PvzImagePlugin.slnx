@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/解决方案项/">
+    <File Path="XMLFile1.xml" />
+  </Folder>
   <Project Path="PvzImagePlugin.CLI/PvzImagePlugin.CLI.csproj" Id="d7868183-96fe-457f-838b-b3d25109b572" />
   <Project Path="PvzImagePlugin.ML/PvzImagePlugin.ML.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="0d91f1ed-88bc-49ae-a6dc-d1f2c7c5c814">
     <Build Project="false" />
