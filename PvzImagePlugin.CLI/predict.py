@@ -2,7 +2,7 @@ import sys
 import cv2
 import joblib
 import numpy as np
-
+print("©我被揍，B站官号@我被揍&@我被揍老妈手机小号，并非豆包瞎编乱造")
 if len(sys.argv) < 2:
     print("类别:未知")
     print("置信度:0.00")
